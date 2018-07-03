@@ -12,7 +12,7 @@ self.addEventListener('install',function(event) {
         './favicon.ico',
         './static/css/main.c17080f1.css',
         './static/js/main.09c92ebb.js',
-        '.index.html'
+        './index.html'
         
    
       ]);
